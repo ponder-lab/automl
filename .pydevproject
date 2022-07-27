@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?eclipse-pydev version="1.0"?><pydev_project>
+    <pydev_property name="org.python.pydev.PYTHON_PROJECT_INTERPRETER">Default</pydev_property>
+    <pydev_property name="org.python.pydev.PYTHON_PROJECT_VERSION">python interpreter</pydev_property>
+    <pydev_pathproperty name="org.python.pydev.PROJECT_SOURCE_PATH">
+        <path>/${PROJECT_DIR_NAME}/efficientdet/aug</path>
+        <path>/${PROJECT_DIR_NAME}/efficientdet/backbone</path>
+        <path>/${PROJECT_DIR_NAME}/efficientdet/dataset</path>
+        <path>/${PROJECT_DIR_NAME}/efficientdet/object_detection</path>
+        <path>/${PROJECT_DIR_NAME}/efficientdet/tf2</path>
+        <path>/${PROJECT_DIR_NAME}/efficientdet/visualize</path>
+        <path>/${PROJECT_DIR_NAME}/efficientdet</path>
+        <path>/${PROJECT_DIR_NAME}/efficientnetv2</path>
+    </pydev_pathproperty>
+</pydev_project>
